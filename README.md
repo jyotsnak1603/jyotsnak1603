@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jyotsnak1603
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
+- 👀 I’m from Data Science
+- 🌱 Also learnt Python Full Stack
 - 📫 Reach me by email: jyotsnak1603@gmail.com
 
 <!---
