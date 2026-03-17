@@ -51,6 +51,14 @@
 
 ### 🚀 Featured Projects
 
+#### 🤖 [StudyAI](https://github.com/devyansh770-hue/AIStudyAssistant) — Agentic AI Study Assistant
+> Python • Django • Google Gemini AI • REST APIs
+
+- Developed during (Code-A-Haunt 3.0) — recognized for innovative use of Generative AI.
+- Engineered 3 autonomous AI agents (Quiz Gen, Schedule Advisor, Tutor) using the Gemini API for structured, logic-driven tutoring.
+- Architected a modular 5-app Django backend with 9 relational models and a 5-layer security pipeline (OTP, Rate Limiting, CSRF).
+- Implemented asynchronous processing to handle complex AI workflows without compromising system performance.
+
 #### 🏥 [ArogyaCheck](https://github.com/jyotsnak1603/arogyacheck) — Health Risk Screening for Rural India
 > Python • Django • Plotly • Bootstrap • SQLite
 
