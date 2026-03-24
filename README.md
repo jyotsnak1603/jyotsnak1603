@@ -15,6 +15,7 @@
 ### 👩‍💻 About Me
 
 - 🎓 B.Tech CSE student at **Lovely Professional University**, Jalandhar
+- 🌿 Built **StudyAI** — AI Powered Study Assistant 
 - 🌿 Built **ArogyaCheck** — a health risk screening platform for 68% of rural Indians who lack preventive disease access
 - 🧠 Passionate about using technology to solve real-world problems in **healthcare** and **education**
 - 📊 Love building data-driven dashboards with **Plotly**, **Pandas**, and **Power BI**
