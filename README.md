@@ -1,4 +1,3 @@
-````md
 <h1 align="center">Hi 👋, I'm Jyotsna Chaudhary</h1>
 <h3 align="center">Full Stack Developer | AI Engineer | Building Technology for Social Impact</h3>
 
