@@ -60,7 +60,7 @@ Practicing:
   - Data Structures & Algorithms
   - Competitive Programming
   - Database Optimization
-````
+```
 
 ---
 
