@@ -181,12 +181,6 @@ Practicing:
 
 ---
 
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jyotsnak1603&theme=tokyonight"/>
-</p> 
-
 ---
 
 ## 🛣️ 2026 Goals
@@ -202,12 +196,6 @@ Practicing:
 * [ ] Secure a Software Engineering Internship
 
 ---
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jyotsnak1603/jyotsnak1603/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
