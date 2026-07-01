@@ -184,8 +184,8 @@ Practicing:
 ## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jyotsnak1603&theme=radical&no-frame=true&margin-w=10&margin-h=10" />
-</p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jyotsnak1603&theme=tokyonight"/>
+</p> 
 
 ---
 
