@@ -10,16 +10,13 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_LINK">
+  <a href="https://www.linkedin.com/in/jyotsna-chaudhary-0a165828a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="YOUR_GITHUB_LINK">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:jyotsnak1603@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="YOUR_PORTFOLIO_LINK">
+  <a href="https://jyotsna-portfolio-gray.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel" />
   </a>
 </p>
@@ -187,7 +184,7 @@ Practicing:
 ## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jyotsnak1603&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jyotsnak1603&theme=radical&no-frame=true&margin-w=10&margin-h=10" />
 </p>
 
 ---
@@ -224,7 +221,7 @@ I'm always open to collaborating on:
 * AI Applications
 * Research and Innovation
 
-📫 Reach me at: **YOUR_EMAIL**
+📫 Reach me at: **jyotsnak1603@gmail.com**
 
 ---
 
