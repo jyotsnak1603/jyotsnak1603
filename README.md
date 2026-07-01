@@ -1,127 +1,241 @@
-<h1 align="center">Hi there, I'm Jyotsna Chaudhary 👋</h1>
+````md
+<h1 align="center">Hi 👋, I'm Jyotsna Chaudhary</h1>
+<h3 align="center">Full Stack Developer | AI Engineer | Building Technology for Social Impact</h3>
 
 <p align="center">
-  <b>Full Stack Developer &nbsp;|&nbsp; Python • Django • Next.js &nbsp;|&nbsp; Building for Social Impact</b>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Python+%7C+Django+%7C+Next.js;AI+Powered+Applications;Backend+Engineering+Enthusiast;Open+Source+Contributor;250%2B+DSA+Problems+Solved;Building+Technology+for+Healthcare+and+Education" />
 </p>
 
 <p align="center">
-  <a href="mailto:jyotsnak1603@gmail.com">📧 jyotsnak1603@gmail.com</a> &nbsp;|&nbsp;
-  <a href="https://linkedin.com/in/jyotsna-chaudhary-0a165828a">💼 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://github.com/jyotsnak1603">🐙 GitHub</a>
+  <img src="https://komarev.com/ghpvc/?username=jyotsnak1603&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="YOUR_GITHUB_LINK">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel" />
+  </a>
 </p>
 
 ---
 
-### 👩‍💻 About Me
+<img align="right" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🎓 B.Tech CSE student at **Lovely Professional University**, Jalandhar
-- 🌿 Built **StudyAI** — AI Powered Study Assistant 
-- 🌿 Built **ArogyaCheck** — a health risk screening platform for 68% of rural Indians who lack preventive disease access
-- 🧠 Passionate about using technology to solve real-world problems in **healthcare** and **education**
-- 📊 Love building data-driven dashboards with **Plotly**, **Pandas**, and **Power BI**
-- 💡 Currently exploring **Data Science + Full Stack** intersection
-- 📍 Based in Sikar, Rajasthan
+## 👩‍💻 About Me
 
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Frameworks & Tools**
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- 🎓 B.Tech Computer Science student at **Lovely Professional University**
+- 🚀 Passionate about **Backend Engineering, AI Systems, and Scalable Web Applications**
+- 🌱 Building technology that creates meaningful impact in **Healthcare** and **Education**
+- 💡 Interested in **System Design, Distributed Systems, Generative AI, and Data Engineering**
+- 💪 Solved **250+ DSA problems** and continuously improving problem-solving skills
+- 🌍 Open to **Software Engineering, Backend Development, and AI Engineering opportunities**
+- 📍 Based in **Sikar, Rajasthan, India**
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Current Focus
 
-#### 🤖 [StudyAI](https://github.com/devyansh770-hue/AIStudyAssistant) — Agentic AI Study Assistant
-> Python • Django • Google Gemini AI • REST APIs
+```yaml
+Building:
+  - StudyAI
+  - XenoReach AI
+  - AI-powered SaaS Applications
 
-- Developed during (Code-A-Haunt 3.0) — recognized for innovative use of Generative AI.
-- Engineered 3 autonomous AI agents (Quiz Gen, Schedule Advisor, Tutor) using the Gemini API for structured, logic-driven tutoring.
-- Architected a modular 5-app Django backend with 9 relational models and a 5-layer security pipeline (OTP, Rate Limiting, CSRF).
-- Implemented asynchronous processing to handle complex AI workflows without compromising system performance.
+Learning:
+  - TypeScript
+  - System Design
+  - AWS
+  - LangGraph
+  - Advanced Backend Engineering
 
-#### 🏥 [ArogyaCheck](https://github.com/jyotsnak1603/arogyacheck) — Health Risk Screening for Rural India
-> Python • Django • Plotly • Bootstrap • SQLite
-
-- Serves **3 user roles** — Patient, Doctor, Admin — each with tailored dashboards
-- Analyzes **15+ health parameters** to generate risk scores for diabetes, hypertension & heart disease
-- Doctor analytics dashboard visualizes disease trends across **10+ villages**
-- Engineered for **2G networks** — loads in 7 seconds vs 35-second industry average (80% faster)
-
----
-
-#### 📚 [StackQora](https://github.com/jyotsnak1603/stackqora) — Developer Knowledge Hub
-> Next.js • JavaScript • Tailwind CSS
-
-- **30+ pages** organized by language and topic with dynamic routing via Next.js App Router
-- Global search with live dropdown, dark/light theme toggle, scroll-spy table of contents
-- Client-side notes system with localStorage persistence — no backend needed
+Practicing:
+  - Data Structures & Algorithms
+  - Competitive Programming
+  - Database Optimization
+````
 
 ---
 
-#### 🔬 [Research Publication Manager](https://github.com/jyotsnak1603/research-publication-manager) — Academic Research Tracker
-> Python • PL/SQL • Oracle DB • Streamlit
+## 🏗️ Engineering Interests
 
-- Serves **100+ faculty and students** with role-based access control
-- PL/SQL triggers for automated duplicate detection & audit logging
-- Reduced manual data entry errors by **85%**
-
----
-
-#### 📊 [Crime Incidents Analysis Dashboard](https://github.com/jyotsnak1603/Crime-Incidents-Analysis-Dashboard) — Power BI
-> Microsoft Power BI • DAX • Power Query
-
-- Multi-page dashboard with slicers, trend analysis, and category-wise visualizations
-- Insights into crime trends, high-risk areas, weapon involvement, and victim profiles
+![Backend](https://img.shields.io/badge/Backend-Engineering-blue)
+![System Design](https://img.shields.io/badge/System%20Design-orange)
+![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-red)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-green)
+![Open Source](https://img.shields.io/badge/Open%20Source-purple)
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-yellow)
 
 ---
 
-### 🏆 Achievements
+## 🛠️ Tech Stack
 
-- 🥈 Problem Solver **Silver Badge** — CodeChef (Jan 2026)
-- 💪 Solved **250+ problems** on CodeChef (Feb 2026)
-- 🥇 **Gold Level in SQL** — HackerRank (Nov 2025)
-- ☁️ **Cloud Computing** certification — NPTEL, IIT Kharagpur
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,sql" />
+</p>
+
+### Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,nextjs,react,flask,bootstrap" />
+</p>
+
+### Databases & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github,docker,linux,vscode" />
+</p>
+
+### Data & Analytics
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>
 
 ---
 
-### 📈 GitHub Stats
+# 🚀 Featured Projects
+
+| Project                             | Description                                                                 | Tech Stack                   |
+| ----------------------------------- | --------------------------------------------------------------------------- | ---------------------------- |
+| 🤖 **StudyAI**                      | Agentic AI-powered study assistant with autonomous tutoring agents          | Django, Gemini AI, REST APIs |
+| 🏥 **ArogyaCheck**                  | Health risk prediction platform designed for rural healthcare accessibility | Django, Plotly, SQLite       |
+| 📈 **XenoReach AI**                 | AI-powered marketing automation and customer intelligence platform          | Next.js, PostgreSQL          |
+| 📚 **StackQora**                    | Developer knowledge hub with notes and powerful search functionality        | Next.js, JavaScript          |
+| 🔬 **Research Publication Manager** | Research tracking system with audit logging and duplicate detection         | Python, Oracle DB            |
+
+---
+
+## 🌟 Highlighted Projects
+
+### 🤖 StudyAI — Agentic AI Study Assistant
+
+* Developed during **Code-A-Haunt 3.0**
+* Built **3 autonomous AI agents** using Gemini API
+* Architected a modular **5-app Django backend**
+* Implemented asynchronous AI workflows and secure authentication
+
+---
+
+### 🏥 ArogyaCheck — Health Risk Screening Platform
+
+* Built for **68% of rural Indians** lacking preventive healthcare access
+* Predicts risks for **diabetes, hypertension, and heart disease**
+* Doctor dashboard visualizes disease trends across villages
+* Optimized performance from **35 seconds to 7 seconds**
+
+---
+
+### 📈 XenoReach AI
+
+* AI-powered customer intelligence and marketing platform
+* Generates customer segments and personalized campaigns
+* Multi-tenant SaaS architecture with AI integrations
+
+---
+
+## 💻 Coding Profiles
+
+* 🟡 LeetCode
+* 🟤 CodeChef — 250+ Problems Solved
+* 🟠 HackerRank — Gold SQL Badge
+
+---
+
+## 🏆 Achievements
+
+* 🥈 Problem Solver Silver Badge — CodeChef
+* 💪 Solved 250+ DSA Problems
+* 🥇 Gold Level in SQL — HackerRank
+* ☁️ Cloud Computing Certification — NPTEL IIT Kharagpur
+* 🌱 Open Source Contributor — GirlScript Summer of Code 2026
+
+---
+
+## 📈 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jyotsnak1603&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotsnak1603&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jyotsnak1603&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
-### 🤝 Let's Connect!
+## 📊 Contribution Graph
 
-I'm always open to collaborating on impactful projects, internships, or just a good tech conversation.
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jyotsnak1603&theme=tokyonight">
+</p>
 
-📬 **jyotsnak1603@gmail.com**
+---
+
+## 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jyotsnak1603&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 🛣️ 2026 Goals
+
+* [x] Build AI Study Assistant
+* [x] Build Healthcare Analytics Platform
+* [x] Solve 250+ DSA Problems
+* [x] Complete Cloud Computing Certification
+* [ ] Reach 500+ DSA Problems
+* [ ] Learn AWS and Cloud Deployment
+* [ ] Contribute to Major Open Source Projects
+* [ ] Build a Production-Grade SaaS Platform
+* [ ] Secure a Software Engineering Internship
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jyotsnak1603/jyotsnak1603/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to collaborating on:
+
+* Full Stack Projects
+* Backend Engineering Projects
+* Open Source Contributions
+* AI Applications
+* Research and Innovation
+
+📫 Reach me at: **YOUR_EMAIL**
+
+---
+
+## 💭 Engineering Philosophy
+
+> *"Technology is most powerful when it solves real problems and creates meaningful impact for the people who need it most."*
 
 ---
 
 <p align="center">
-  <i>"Technology is most powerful when it serves those who need it most."</i>
+  ⭐ Thanks for visiting my profile! Let's build something amazing together.
 </p>
+```
