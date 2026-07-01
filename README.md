@@ -41,16 +41,16 @@
 
 ```yaml
 Building:
-  - StudyAI
-  - XenoReach AI
-  - AI-powered SaaS Applications
+  - Multi-Agent AI Applications
+  - AI-Native SaaS Platforms
+  - Scalable Backend Systems
 
 Learning:
   - TypeScript
-  - System Design
   - AWS
   - LangGraph
-  - Advanced Backend Engineering
+  - System Design
+  - Distributed Systems
 
 Practicing:
   - Data Structures & Algorithms
@@ -62,15 +62,25 @@ Practicing:
 
 ## 🏗️ Engineering Interests
 
-![Backend](https://img.shields.io/badge/Backend-Engineering-blue)
-![System Design](https://img.shields.io/badge/System%20Design-orange)
-![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-red)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-green)
-![Open Source](https://img.shields.io/badge/Open%20Source-purple)
-![Data Engineering](https://img.shields.io/badge/Data%20Engineering-yellow)
+<p>
+  <img src="https://img.shields.io/badge/Backend%20Engineering-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System%20Design-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Distributed%20Systems-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20Source-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Engineering-yellow?style=for-the-badge"/>
+</p>
 
 ---
 
+## 🧠 Domains I Love Building In
+
+- 🤖 Artificial Intelligence & Multi-Agent Systems
+- ⚙️ Backend Engineering & System Design
+- 📊 Data Analytics & Visualization
+- 🌍 Technology for Social Impact
+- ☁️ Cloud & DevOps
+- 🧩 Problem Solving & Competitive Programming
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -104,13 +114,14 @@ Practicing:
 
 # 🚀 Featured Projects
 
-| Project                             | Description                                                                 | Tech Stack                   |
-| ----------------------------------- | --------------------------------------------------------------------------- | ---------------------------- |
-| 🤖 **StudyAI**                      | Agentic AI-powered study assistant with autonomous tutoring agents          | Django, Gemini AI, REST APIs |
-| 🏥 **ArogyaCheck**                  | Health risk prediction platform designed for rural healthcare accessibility | Django, Plotly, SQLite       |
-| 📈 **XenoReach AI**                 | AI-powered marketing automation and customer intelligence platform          | Next.js, PostgreSQL          |
-| 📚 **StackQora**                    | Developer knowledge hub with notes and powerful search functionality        | Next.js, JavaScript          |
-| 🔬 **Research Publication Manager** | Research tracking system with audit logging and duplicate detection         | Python, Oracle DB            |
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 📊 **FinSight AI** | Autonomous investment research agent generating institutional-grade INVEST/WATCHLIST/PASS verdicts through multi-agent reasoning. | Next.js, LangGraph.js, Gemini, Groq, Alpha Vantage |
+| 🤖 **StudyAI** | AI-powered learning platform using cognitive modeling, NLP mistake analysis, and knowledge graphs. | Django, Gemini, PostgreSQL, Docker |
+| 📈 **XenoReach AI** | AI-native campaign intelligence CRM with audience segmentation and analytics workflows. | Next.js, Django, PostgreSQL, Gemini |
+| 🏥 **ArogyaCheck** | Early health risk prediction platform optimized for low-connectivity rural environments. | Django, Plotly, Random Forest |
+| 📚 **StackQora** | Developer knowledge hub with notes, search, and documentation capabilities. | Next.js, React, Tailwind |
+| 🔬 **Research Publication Manager** | Research tracking system with audit logging and duplicate detection. | Python, Oracle DB |
 
 ---
 
@@ -144,9 +155,19 @@ Practicing:
 
 ## 💻 Coding Profiles
 
-* 🟡 LeetCode
-* 🟤 CodeChef — 250+ Problems Solved
-* 🟠 HackerRank — Gold SQL Badge
+<p>
+  <a href="https://leetcode.com/u/jyotsna16/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+  </a>
+
+  <a href="https://www.codechef.com/users/jyotsnak16">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef"/>
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/jyotsnak1603">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
+  </a>
+</p>
 
 ---
 
